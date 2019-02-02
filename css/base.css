@@ -268,6 +268,125 @@ s, i, em {
     color:white;
     border-radius:8px 8px 8px 0;
 }
+.hotwords{
+    float:left;
+    padding:7px 0;
+}
+.hotwords a{
+    margin-left:4px;
+}
+.fenlei {
+    border-bottom:2px solid #B1191A;
+}
+.fenlei .flei{
+    height: 44px;
+}
+.fenlei .fl1{
+    float:left;
+}
+.fenlei .fl1_1{
+    width:210px;
+}
+.fenlei .fl1 a{
+    display:block;
+    height:44px;
+    font:400 15px/44px "微软雅黑";
+    padding-left:5px;
+    background-color:#B1191A;
+    color:white;
+}
+.fenlei .fl2{
+    height:44px;
+    float:left;
+}
+.fenlei .fl2 ul li{
+    float:left;
+}
+.fenlei .fl2 ul li a{
+    display:block;
+    padding:0 20px;
+    font:400 15px/44px "微软雅黑";
+}
+.fenlei .fl2 ul li a:hover{
+    color: #ff282c;
+}
+.fenlei .fl2 .news{
+    background:url("../images/new.jpg")no-repeat right top;
+}
+.fenlei .fl3 a {
+    display:block;
+    width:140px;
+    height:44px;
+    background:url("../images/bike.jpg")no-repeat;
+    float:right;
+}
+/*底部*/
+.dibutop1{
+    padding:20px 0;
+    background-color:#F5F5F5;
+    height:54px;
+    position:relative;
+    margin-bottom:25px;
+}
+.dibutop1 .dbtp{
+    position:absolute;
+    top:20px;
+    left:50%;
+}
+.dibutop1 .dbtp1{
+    margin-left:-608px;
+}
+.dibutop1 .dbtp2{
+    margin-left:-304px;
+}
+.dibutop1 .dbtp4{
+    margin-left:304px;
+}
+.dibutop2 dl{
+    width:200px;
+    float:left;
+}
+.dibutop2 dt ,
+.db_1top{
+    font-size:16px;
+    font-family:"微软雅黑";
+    line-height:29px;
+}
+.dibutop2 dd{
+    line-height:20px;
+}
+.db_1top{
+    margin-bottom:10px;
+}
+.db_1{
+    float:right;
+    width:202px;
+    height:169px;
+    background:url("../images/china.png")no-repeat left bottom;
+}
+.ht{
+    border:1px solid #E5E5E5;
+    marigin:0 0 25px 0;
+}
+.db_1bottom{
+    line-height:18px;
+}
+.db_1bottom .looklook{
+    text-align:right;
+}
+.dibubottom{
+    text-align:center;
+    padding-bottom:34px;
+}
+.dbb1{
+    line-height:26px;
+}
+.dibubottom .dbb1 a{
+    padding:0 8px;
+}
+.dbb2{
+    line-height:19px;
+}
 
 
 
