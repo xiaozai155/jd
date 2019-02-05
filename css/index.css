@@ -1,0 +1,125 @@
+.dabanner {
+    position:relative;
+}
+.dabanner a{
+    display:block;
+    width:100%;
+    background:url("../images/banner.jpg")no-repeat top center;
+    height:603px;
+    position:absolute;
+}
+
+.zhongbu{
+    position:relative;
+}
+.zhongbu .zbleft{
+    width:730px;
+    height:454px;
+    background-color:pink;
+    margin:10px 0 0 220px;
+    float:left;
+    position:relative;
+}
+.zbright{
+    width:248px;
+    height:451px;
+    float:right;
+    margin-top:10px;
+    border:1px solid #E4E4E4;
+}
+.zhongbu .zbleft .xyd{
+    position:absolute;
+    left:50%;
+    bottom:8px;
+    margin-left:-66px;
+}
+.zhongbu .zbleft .xyd li{
+    width:18px;
+    height:18px;
+    float:left;
+    background-color:#3E3E3E;
+    margin:0 2px;
+    line-height:20px;
+    text-align:center;
+    border-radius:50%;
+    color:white;
+}
+.zhongbu .zbleft .xyd .xydz{
+    background-color:#B61B1F;
+}
+.gunrun .dd,
+.gunrun .dt{
+    width:28px;
+    height:62px;
+    background: rgba(0,0,0,.2);
+    position:absolute;
+    top:50%;
+    margin-top:-31px;
+    font:400 18px/62px "宋体";
+    text-align:center;
+}
+.gunrun .dt{
+    right:0;
+}
+.zbright .zbr1{
+    width:248px;
+    height:200px;
+    border-bottom:1px dashed #E4E4E4;
+}
+.zbr2{
+    width:248px;
+    height:250px;
+}
+.zbr1_1,
+.zbr2_1{
+    height:43px;
+    border-bottom:1px dashed #E4E4E4;
+    text-align:center;
+    padding:0 8px;
+    font:400 15px/43px "微软雅黑";
+}
+.zbr1_1 h3 ,
+.zbr2_1 h3{
+    float:left;
+}
+.zbr1_1 span{
+    float:right;
+}
+.zbr1_2{
+    padding:5px 0 0 8px;
+}
+.zbr1_2 li{
+    line-height:28px;
+}
+.zbr1_2 span{
+    font-weight:700;
+}
+.zbr2_2{
+    overflow:hidden;
+}
+.zbr2_2 li{
+    width:62px;
+    height:20px;
+    border:1px solid #E4E4E4;
+    float:left;
+    margin:-1px 0 0 -1px;
+    text-align:center;
+    padding-top:50px;
+}
+.zbr2_2 ul{
+    width:253px;
+}
+.zbr2_2 li{
+    position:relative;
+}
+.zbr2_2 i{
+    width:25px;
+    height:25px;
+    position:absolute;
+    top:12px;
+    left:20px;
+    background:url("../images/icon_lifeserv.png")no-repeat top right;
+}
+.zbr2_2_3{
+    background:url("../images/song.png")no-repeat right top;
+}

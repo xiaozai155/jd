@@ -282,10 +282,27 @@ s, i, em {
     height: 44px;
 }
 .fenlei .fl1{
-    float:left;
+    width: 210px;
+    height: 44px;
+    float: left;
+    position: relative;
+    z-index: 10;
+    overflow: visible;
 }
 .fenlei .fl1_1{
-    width:210px;
+    height:44px;
+}
+.fenlei .fl1_2 .fl1_21 a{
+    display:block;
+    font:500 16px/31px "微软雅黑";
+    height:31px;
+    padding-right:10px;
+}
+.fenlei .fl1_2 .fl1_21 a span{
+    float:right;
+ }
+.fenlei .fl1_2 h3{
+    float:left;
 }
 .fenlei .fl1 a{
     display:block;
@@ -320,6 +337,7 @@ s, i, em {
     background:url("../images/bike.jpg")no-repeat;
     float:right;
 }
+
 /*底部*/
 .dibutop1{
     padding:20px 0;
@@ -366,7 +384,7 @@ s, i, em {
 }
 .ht{
     border:1px solid #E5E5E5;
-    marigin:0 0 25px 0;
+    margin:0 0 25px 0;
 }
 .db_1bottom{
     line-height:18px;
@@ -387,6 +405,7 @@ s, i, em {
 .dbb2{
     line-height:19px;
 }
+.
 
 
 
